@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias_array">
+        <item>Seleccionar</item>
+        <item>LIMPIEZA</item>
+        <item>CUIDADO PERSONAL</item>
+        <item>CARNES</item>
+        <item>VERDURAS</item>
+        <item>HARINAS</item>
+        <item>NO PERECEDEROS</item>
+        <item>CONDIMENTOS</item>
+        <item>OTROS</item>
+    </string-array>
+</resources>

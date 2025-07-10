@@ -1,0 +1,59 @@
+# Built files
+/build/
+*/build/
+
+# Gradle
+.gradle/
+!gradle-wrapper.jar
+gradle-wrapper.properties
+gradle-wrapper.jar
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+*.hprof
+
+# Log and crash files
+*.log
+crashlytics-build.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android Studio navigation
+.navigation/
+
+# APKs
+*.apk
+*.ap_
+
+# Keystore files (⚠️ muy importante)
+*.jks
+*.keystore
+
+# Firebase / Crashlytics
+google-services.json
+fabric.properties
+
+# NDK
+obj/
+
+# Jetpack Compose preview cache
+*.cach
+
+# Generated signing config
+signing.properties
+
+# Fastlane
+fastlane/report.xml
+fastlane/metadata/android/*/*/images
+fastlane/metadata/android/*/*/video
+
+# Kotlin specific
+*.kts~
+
+# Others
+captures/
+outputs/
